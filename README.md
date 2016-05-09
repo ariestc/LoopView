@@ -1,2 +1,1 @@
-# LoopView
-无线循环滚动
+#LoopView
